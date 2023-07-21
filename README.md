@@ -16,3 +16,5 @@
 <p>A random foi utilizada para inserir novos caracteres em posições aleatorios dentro do token gerado pelo secrets</p>
 <p>flask foi utilizado para fazer a api funcionar</p>
 <p>flask_cors foi utilizada para mostrar os dados no browser </p>
+
+<p>Ela retorna a "senha" e "tamanho" da senha em formato json</p>
